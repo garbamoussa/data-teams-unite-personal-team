@@ -30,7 +30,9 @@ Mr , MS<br>
 * [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19) - (For Confirmed cases and Deaths) 
 * [SafeGraph](https://www.safegraph.com/covid-19-data-consortium) - (To get Foot Traffic in businesses across industries)
 * [NAICS](https://www.naics.com/search/) - (to map business codes to businesses and industries)
-
+* nytimes Covid Data https://github.com/nytimes/covid-19-data
+* [New York Times Covid Dataset](https://github.com/nytimes/covid-19-data) 
+* [COVID-19 US County level Summaries](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries) 
 
 ## Methodology 
 
@@ -43,11 +45,8 @@ Mr , MS<br>
 * Objective: To find the relationship between the socio-demographic and health service factors with the COVID-19 mortality in the United States. Analyze the datasets on comorbidities, social and economic conditions, and healthcare system preparedness COVID 19 mortality per county.
 
 
-   ##### Decision tree 
+    Random Forest and Decision tree 
     
-    
-    ##### Random Forest   
-![County-level Number of super-spreader businesses](Visualisations/metrics_random_forest.png "Legend")
 ## Presentation link 
 
 - https://devpost.com/software/covid-19-mortality-risk-factors-in-the-united-states 

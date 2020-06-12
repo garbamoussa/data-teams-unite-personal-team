@@ -6,16 +6,16 @@
 <h1 align=center>COVID-19 Mortality Risk Factors and economic policies</h1>
 
 
-<h2 align=center>Track D, Team 6:</h2>
+<h2 align=center>Hackathon for good , data-teams-unite-personal-team:</h2>
 
 <h3>Participants: </h3>
 
 GARBA Moussa, PhD<br>
-Dr Raouf , MPH<br>
- <br>
+Dr Raouf Hajji, MD <br>
+Anand Nagasayanam <br>
 
 Mr , MS<br>
-Mr, MS<br>
+
 
 
 
@@ -53,5 +53,8 @@ Mr, MS<br>
 
 - Python 3
 - BigQuery 
-- Stata 14
-- Tableau
+- Databricks
+- MLFlow
+- Azure Microsolf 
+- R 
+- Python 

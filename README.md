@@ -28,7 +28,7 @@ Mr , MS<br>
 * [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19) - (For Confirmed cases and Deaths) 
 * [New York Times Covid Dataset](https://github.com/nytimes/covid-19-data) 
 
-![correlation between deaths and cases county level](Visualisations/correlation_by_county_level.png "Legend")
+
 
 * [COVID-19 US County level Summaries](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries)
 
@@ -36,7 +36,7 @@ Mr , MS<br>
 
 ![County-level Number of Clinical Care](Visualisations/Clinical Care.png "Legend")
 
-![features correlation_by_county_level](Visualisations/correlation_by_county_level.png "Legend")
+
 
 * [Economic and Unemployment county level details](https://www.ers.usda.gov/webdocs/DataFiles/48747/Unemployment.xls?v=990.7) 
 

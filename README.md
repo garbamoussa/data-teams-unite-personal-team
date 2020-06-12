@@ -28,8 +28,7 @@ Mr , MS<br>
 
 ## Datasets
 * [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19) - (For Confirmed cases and Deaths) 
-* [SafeGraph](https://www.safegraph.com/covid-19-data-consortium) - (To get Foot Traffic in businesses across industries)
-* [NAICS](https://www.naics.com/search/) - (to map business codes to businesses and industries)
+* 
 * nytimes Covid Data https://github.com/nytimes/covid-19-data
 * [New York Times Covid Dataset](https://github.com/nytimes/covid-19-data) 
 * [COVID-19 US County level Summaries](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries) 

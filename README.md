@@ -43,10 +43,10 @@ Mr , MS<br>
 * Objective: To find the relationship between the socio-demographic and health service factors with the COVID-19 mortality in the United States. Analyze the datasets on comorbidities, social and economic conditions, and healthcare system preparedness COVID 19 mortality per county.
 
 
-    Random Forest and 
+   ##### Decision tree 
     
     
-    ##### Decision tree 
+    ##### Random Forest   
 ![County-level Number of super-spreader businesses](Visualisations/metrics_random_forest.png "Legend")
 ## Presentation link 
 

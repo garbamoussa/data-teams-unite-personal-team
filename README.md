@@ -26,12 +26,13 @@ Mr , MS<br>
 
 ## Datasets
 * [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19) - (For Confirmed cases and Deaths) 
+![County-level Number of Healthcare Workers](Visualisations/correlation_clinical_care_rank_and_deaths.png"Legend")
 * [New York Times Covid Dataset](https://github.com/nytimes/covid-19-data) 
-
-
+![County-level Number of Healthcare Workers](Visualisations/Drinking.png"Legend")
 
 * [COVID-19 US County level Summaries](https://github.com/JieYingWu/COVID-19_US_County-level_Summaries)
 
+![County-level Number of Healthcare Workers](Visualisations/Drinking.png"Legend")
 ![County-level Number of Healthcare Workers](Visualisations/Healthcare Workers.PNG "Legend")
 
 ![County-level Number of Clinical Care](Visualisations/Clinical Care.png "Legend")

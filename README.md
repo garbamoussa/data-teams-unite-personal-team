@@ -17,8 +17,6 @@ Anand Nagasayanam <br>
 Mr , MS<br>
 
 
-
-
 <h2>Research Question</h2>
 
 
@@ -38,13 +36,20 @@ Mr , MS<br>
 
 * Exploratory Analysis of COVID-19 Mortality Risk Factors in the United States The current Covid-19 crisis has created unprecedented public health and economic emergency. The lockdown is trying to stop spreading the disease and its effects. The choice of the time and the process of reopening is crucial to solve these issues and prevent the potential second wave.
 
+![County-level Number of super-spreader businesses](Visualisations/correlation_by_county_level.png "Legend")
+    
     
 * Current understanding of the virus spread and its mortality pattern is limited; however, significant amounts of data have been collected and made publicly available.
 
 * Objective: To find the relationship between the socio-demographic and health service factors with the COVID-19 mortality in the United States. Analyze the datasets on comorbidities, social and economic conditions, and healthcare system preparedness COVID 19 mortality per county.
 
 
-    Random Forest and Decision tree 
+    ### Decision tree 
+    
+    
+    ### Random Forest  
+    
+![County-level Number of super-spreader businesses](Visualisations/metrics_random_forest.png "Legend")
     
 ## Presentation link 
 

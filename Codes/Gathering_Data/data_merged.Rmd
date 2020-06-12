@@ -1,0 +1,71 @@
+
+---
+title: "data_merged"
+output:
+  html_document:
+    toc: true
+---
+
+
+```{r}
+%md
+
+### Create dataset merged 
+```
+
+
+```{r}
+library(tidyverse)
+library(plyr)
+
+
+```
+
+
+```{bash}
+ls /dbfs/FileStore/tables/
+```
+
+```{r}
+d1<-read.csv("/dbfs/FileStore/tables/us_counties.csv")
+d2<-read.csv("/dbfs/FileStore/tables/health.csv")
+d3<-read.csv("/dbfs/FileStore/tables/health_factors.csv")
+d4<-read.csv("/dbfs/FileStore/tables/health_factors_behab.csv")
+d5<-read.csv("/dbfs/FileStore/tables/housing.csv")
+d6<-read.csv("/dbfs/FileStore/tables/testing_by_state-971a2.csv")
+```
+
+
+```{r}
+
+```
+
+
+```{r}
+d7 <- join(d1, d2, type = "inner")
+d8 <- join(d7, d3, type = "inner")
+d9 <- join(d8, d4, type = "inner")
+d10 <- join(d9, d5, type = "inner")
+d11 <- join(d10, d6, type = "inner")
+```
+
+
+```{r}
+d11
+```
+
+
+```{r}
+display(merged)
+```
+
+
+```{r}
+write.csv(d11, "/dbfs/FileStore/tables/merged_source.csv")
+```
+
+
+```{r}
+
+```
+

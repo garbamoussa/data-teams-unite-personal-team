@@ -21,8 +21,16 @@ Mr Akhil Kumar <br>
 
 
 ## Objective: To find the relationship between the sociodemographic and health service factors with the COVID-19 mortality in the United States. Predict the best policies/ the best time for reopening
-### Aim 1: 
-### Aim 2: 
+### Aim 1: Overview: Showing the chance of a patient who is diagnosed with COVID-19 in a specific county will die
+Specifics: There will be a map of the US with all the counties and will also rank which counties are the worst to live in if you get COVID-19. The variables that will be taken into consideration:
+Location (county in the US), Smoker, Obesity, Drinking, ICU beds in each county, Healthcare professionals in each county (high, med, low), Quality of life, Physical environment, Corrected for Population Density, Number of tests conducted per 1000
+Length of lockdown
+
+### Aim 2: Overview: Predicting the outcome of a patient who is diagnosed with COVID-19
+Specifics: The user will input certain variables, Location (county in the US), Smoker, Obesity, Drinking. The output will be the predicted outcome of whether the user will die or not in a percentage. The variables that will be in the background
+ICU beds in each county, Healthcare professionals in each county (high, med, low), Quality of life, Physical environment
+Corrected for Population Density, Number of tests conducted per 1000, Length of lockdown
+
 
 ## Datasets
 * [John Hopkins University Dataset for COVID 19](https://github.com/CSSEGISandData/COVID-19) - (For Confirmed cases and Deaths) 
